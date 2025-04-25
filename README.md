@@ -14,3 +14,5 @@ API
 Akka Framework hat mqtt
 
 UI: Webinterface empfohlen aber man kann auch CLI aber nicht empfohlen
+
+![IMG_6983](https://github.com/user-attachments/assets/b2024388-99d6-4c84-920c-0b421f70ae94)
