@@ -15,4 +15,10 @@ Akka Framework hat mqtt
 
 UI: Webinterface empfohlen aber man kann auch CLI aber nicht empfohlen
 
+Order System eine Applikation und das ganze SmartHome auch eine Applikation und Environment externes System einfach.
+
+Wer schickt wem die Nachrichten kann man interne-Methodenaufrufe machen einfach halten. Und AC macht logik für temp die er von temp actor kriegt. Fridge hat eigene logik zb orderprocessing. Persistierung keine nur zur Luafzeitvariable und so.
+
+
+
 ![IMG_6983](https://github.com/user-attachments/assets/b2024388-99d6-4c84-920c-0b421f70ae94)
