@@ -22,3 +22,7 @@ Wer schickt wem die Nachrichten kann man interne-Methodenaufrufe machen einfach 
 
 
 ![IMG_6983](https://github.com/user-attachments/assets/b2024388-99d6-4c84-920c-0b421f70ae94)
+
+# Seminar:
+* Fride hat Actoren wie Weight Space OrderProcessor, OrderPorcessor ist sowas wie die Validierung und die Nachricht an einem externen OrderSystem schickt. OrderProcessor fragt bei Weight und Space nach was der Zustand ist, wenn man bestellen kann... anhand einer Liste von Prdoukten die jeweils weight und space eigenschaften haben, wird weitergemacht.
+* OrderSystem schickt die Nachricht zurück an OrderProcessor und der ändert den Zustand von der Fridge.
