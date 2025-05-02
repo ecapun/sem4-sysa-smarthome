@@ -26,3 +26,4 @@ Wer schickt wem die Nachrichten kann man interne-Methodenaufrufe machen einfach 
 # Seminar:
 * Fride hat Actoren wie Weight Space OrderProcessor, OrderPorcessor ist sowas wie die Validierung und die Nachricht an einem externen OrderSystem schickt. OrderProcessor fragt bei Weight und Space nach was der Zustand ist, wenn man bestellen kann... anhand einer Liste von Prdoukten die jeweils weight und space eigenschaften haben, wird weitergemacht.
 * OrderSystem schickt die Nachricht zurück an OrderProcessor und der ändert den Zustand von der Fridge.
+* Es gitb Externe und INterne Temps also TempEnvironment und WheaterEnvironment und Externe TempExtern und WheatherExtern. Hier sollte man überlegen in welche Richtung man am besten die Nachrichte schickt und ob man eine ParentKlasse bildet um zwischen Intern und Extern zu switchen oder sowas ähnliches ka chatabi hilf was man hier meint.
